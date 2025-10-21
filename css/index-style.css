@@ -1,0 +1,55 @@
+.bg{ background: #D9D9D9 }
+
+.box {
+  display: flex;               /* ใช้ flexbox */
+  justify-content: center;     /* จัดกึ่งกลางแนวนอน */
+  align-items: center;         /* จัดกึ่งกลางแนวตั้ง */
+  flex-direction: column;
+}
+
+.pad {padding-left: 100px;
+}
+
+.pad2 {padding-right: 100px;}
+
+
+.font1 {
+  font-family: 'Taviraj', sans-serif;
+  font-weight: 600; 
+  font-size: 70px;
+    color: #3e5c76;
+}
+
+.font2 {
+  font-family: 'Pridi', serif;
+   font-size: 50px;
+    color: #748cab;
+}
+
+.font3 {
+  font-family: 'Taviraj', sans-serif;
+  font-size: 35px;
+  color: #283618;
+}
+
+.font4 {
+  font-family: 'Pridi', serif;
+   font-size: 20px;
+   color: #432818;
+}
+
+.bgg {
+background: #e6e6e6;
+}
+
+.bggg {
+background: #dedbd2;
+}
+
+.yor {
+  text-indent: 2em;
+}
+
+
+div { /*border: 2px
+  solid purple;}
