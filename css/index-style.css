@@ -38,6 +38,31 @@
    color: #432818;
 }
 
+.font5 {
+  font-family: 'Pridi', serif;
+   font-size: 19px;
+   color: #ffffff;
+}
+
+.font6 {
+  font-family: 'Pridi', serif;
+   font-size: 16px;
+   color: #ece9e0;
+}
+
+.font7 {
+  font-family: 'Taviraj', sans-serif;
+  font-size: 45px;
+  color: #283618;
+}
+
+.font8 {
+  font-family: 'Pridi', serif;
+   font-size: 25px;
+   color: #432818;
+}
+
+
 .bgg {
 background: #e6e6e6;
 }
@@ -50,6 +75,8 @@ background: #dedbd2;
   text-indent: 2em;
 }
 
+.korb { border: 2px
+  solid rgb(0, 0, 0);}
 
 div { /*border: 2px
   solid purple;}
