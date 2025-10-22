@@ -62,14 +62,24 @@
    color: #432818;
 }
 
+.picc {
+margin-right: 0%;
+}
 
 .bgg {
 background: #e6e6e6;
 }
 
+.bgg2 {
+background: #e6e6e6;
+padding-left: 50;
+}
+
 .bggg {
 background: #dedbd2;
 }
+
+
 
 .yor {
   text-indent: 2em;
@@ -78,5 +88,5 @@ background: #dedbd2;
 .korb { border: 2px
   solid rgb(0, 0, 0);}
 
-div { /*border: 2px
+div {  border: 2px
   solid purple;}
